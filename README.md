@@ -1,4 +1,4 @@
-Performing basic python programs
-while loop 
-for loop
+Performing basic python programs like
+while loop,
+for loop, and 
 data operations
